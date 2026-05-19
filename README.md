@@ -26,4 +26,4 @@ Python · pandas · scikit-learn · seaborn · matplotlib
 [Kaggle — Medical Appointment No Shows]
 
 ## Notebook
-Full analysis also available on [Kaggle] <www.kaggle.com/code/iamstassie/predicting-patient-no-shows-in-medical-appointment>
+Full analysis also available on [Kaggle] www.kaggle.com/code/iamstassie/predicting-patient-no-shows-in-medical-appointment
