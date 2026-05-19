@@ -1,4 +1,4 @@
-# Predicting-Patient-No-Shows-in-Medical-Appointments
+# Predicting Patient No-Shows in Medical Appointments
 
 ## Overview
 Analysis of 110,000+ medical appointments from Brazil's public health system to predict whether a patient will attend their scheduled appointment.
